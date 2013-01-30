@@ -1,0 +1,3 @@
+
+ssh jeff@64.49.226.237 -p22999 (Sorry, i accidentally chose this port number, i changed it to 22984 like you asked but it didn't work )
+Password = siarto
