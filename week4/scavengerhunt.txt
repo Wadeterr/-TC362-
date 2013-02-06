@@ -1,0 +1,22 @@
+	1.	HOW MANY FILES ARE IN /USR/BIN DIRECTORY?
+
+		⁃	To find this I typed in cd /usr/bin, then list all (ls -al) and it returned 34,124 files in this directory. So the answer is 34124.
+
+
+	2.	IDENTIFY THE SERVER PROCESS WITH THE HIGHEST MEMORY USAGE.
+
+		-To find this I typed in "top" (without the quotes) in terminal.The server process with the highest memory usage is the PID - 1 USER - root PR - 20  %MEM - 0.3
+ 
+	3.	WHAT IS YOUR SERVER’S TIMEZONE?
+
+		⁃	The timezone is the Dallas (DFW). Found that in rack-space.
+
+
+
+	4.	HOW MANY DEFAULT GROUPS DOES YOUR UBUNTU DISTRIBUTION HAVE?
+
+		-The number of default groups equals 14. To find this i did a google search.
+
+
+	5.	DOWNLOAD, UN-TAR AND EXECUTE THE FOLLOWING PHP FILE (362.TAR) FROM THE COMMAND LINE ON YOUR SERVER. WHAT IS THE OUTPUT? BONUS: NAME THE SEQUENCE!
+		-The output is TC 362
