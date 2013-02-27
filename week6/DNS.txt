@@ -1,0 +1,10 @@
+wadeterr.com
+sub1.wadeterr.com
+
+
+ssh root@198.101.237.233
+
+
+or 
+www.wadeterr.com
+www.sub1.wadeterr.com
